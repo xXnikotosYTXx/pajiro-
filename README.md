@@ -1,8 +1,13 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+Everyone!+👋;+I'm+Pajiro!;" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=35&duration=4500&pause=2000&color=00FF9D&center=true&vCenter=true&width=520&lines=Привет!+👋;Я+Pajiro;Люблю+чистый+код;и+хороший+кофе;✨" alt="Minimal Typing" />
 </h1>
+
+<!-- Можно добавить подпись маленьким шрифтом -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=18&pause=3000&color=8A8A8A&center=true&vCenter=true&width=420&lines=Full-Stack+•+Open+Source+•+Always+learning" />
+</p>
 
 <h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
 
