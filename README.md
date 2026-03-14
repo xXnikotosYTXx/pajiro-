@@ -16,11 +16,10 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 # 📊 GitHub Stats:
-**Stats loading soon 🔥**  
-(Как только появятся публичные репозитории — статистика оживёт!)
+![](https://github-readme-stats.vercel.app/api?username=sumedhkumar&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=sumedhkumar&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sumedhkumar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![](https://nirzak-streak-stats.vercel.app/?user=pajiro&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pajiro&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ---
