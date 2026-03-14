@@ -5,7 +5,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pajiro)
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/pajiro)
 [![VK](https://img.shields.io/badge/VK-%230077FF.svg?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/pajiro)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/pajiro) <!-- замени ссылку на свой Discord (invite сервера или профиль) -->
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/pajiro) <!-- замени на свою ссылку -->
 
 # 💻 Tech Stack:
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
@@ -16,7 +16,9 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=pajiro&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+**Stats loading soon 🔥**  
+(Как только появятся публичные репозитории — статистика оживёт!)
+
 ![](https://nirzak-streak-stats.vercel.app/?user=pajiro&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pajiro&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ### ✍️ Random Dev Quote
@@ -24,8 +26,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=pajiro&icon=0&color=0)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-# 🐍 My Contributions 🐍
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/xXnikotosYTXx/xXnikotosYTXx/output/github-contribution-grid-snake.svg" />
-</div>
