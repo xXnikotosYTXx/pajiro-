@@ -2,8 +2,8 @@
 🔭 I’m currently working on ... Custom Roblox experiences, personal game projects and tools built with Lua, plus full-stack applications in C#, C++ , Python and JavaScript.<br><br>🌱 I’m currently learning ... Advanced game optimization, AI integration in games and modern full-stack development.<br><br>💬 Ask me about ... Roblox Studio scripting, custom game mechanics, Lua, Unity with C#, indie game dev and anything programming-related!<br><br>⚡ Fun fact ... I started my development journey in Roblox Studio — making custom skills and modifications on ready-made game copies. Then I began my own independent programming path. My favorite anime are Kimetsu No Yaiba, Blue Lock and Tensei Shitara Slime Datta Ken!
 
 ## 🌐 Socials:
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pajiro)
-[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/pajiro)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xXnikotosYTXx)
+[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199546605173/)
 [![VK](https://img.shields.io/badge/VK-%230077FF.svg?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/pajiro)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/pajiro) <!-- замени на свою ссылку -->
 
