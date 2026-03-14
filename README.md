@@ -1,13 +1,12 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=xXnikotosYTXx.xXnikotosYTXx" />
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=36&pause=1500&color=00D9FF&center=true&vCenter=true&width=560&lines=Hello+Everyone!+👋;I'm+Pajiro!;Lua+%E2%80%A2+C%23+%E2%80%A2+C%2B%2B+%E2%80%A2+Python;Game+Dev+%26+Tools+🔥" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=36&pause=1500&color=00D9FF&center=true&vCenter=true&width=560&lines=Hello+Everyone!+👋;I'm+Pajiro!;Lua+%E2%80%A2+C%23+%E2%80%A2+C%2B%2B+%E2%80%A2+Python;Game+Dev+%26+Tools+🔥&v=1" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">Lua • C# • C++ • Python developer</h3>
 
 <br/>
-
 <hr/>
 
 <h2 align="center">⚒️ Languages & Tools ⚒️</h2>
